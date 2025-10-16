@@ -6,7 +6,7 @@ An AI-powered web application that analyzes written text to detect potential sig
 
 ## 🚀 Live Demo
 
-*[[Link to my deployed Streamlit App](https://mental-health-analyzer-f4wrt6kvq2qt6tt8vbcu2a.streamlit.app/)]* <-- We will get this link after deploying!
+*[[Link to my deployed Streamlit App](https://mental-health-analyzer-f4wrt6kvq2qt6tt8vbcu2a.streamlit.app/)]* 
 
 
 
