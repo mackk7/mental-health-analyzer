@@ -6,11 +6,12 @@ An AI-powered web application that analyzes written text to detect potential sig
 
 ## 🚀 Live Demo
 
-*[Link to your deployed Streamlit App]* <-- We will get this link after deploying!
+*[[Link to my deployed Streamlit App](https://mental-health-analyzer-f4wrt6kvq2qt6tt8vbcu2a.streamlit.app/)]* <-- We will get this link after deploying!
 
-## 📸 Screenshot
 
-*[Insert a screenshot or GIF of your running application here]*
+
+*[Screenshot of my running application here]*
+## 📸 Screenshot<img width="1842" height="938" alt="Screenshot 2025-10-16 224020" src="https://github.com/user-attachments/assets/7896a1f9-31bb-4794-8bbe-c686e549970d" />
 
 ## 🎯 Problem Statement
 
@@ -33,7 +34,7 @@ In a world where many hesitate to discuss mental health openly, their written te
 ## ⚙️ How to Run Locally
 
 1.  Clone the repository:
-    `git clone [your-repo-link]`
+    `git clone "https://github.com/mackk7/mental-health-analyzer.git"`
 2.  Create and activate a virtual environment.
 3.  Install dependencies:
     `pip install -r requirements.txt`
