@@ -4,6 +4,9 @@ An AI-powered web application that analyzes written text to detect potential sig
 
 ---
 
+Note: The original trained model file was large and excluded due to GitHub file size limits.
+The deployed Streamlit app demonstrates the final working version with the model hosted externally.
+
 ## 🚀 Live Demo
 
 *[[Link to my deployed Streamlit App](https://mental-health-analyzer-f4wrt6kvq2qt6tt8vbcu2a.streamlit.app/)]* 
