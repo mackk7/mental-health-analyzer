@@ -5,7 +5,8 @@ An AI-powered web application that analyzes written text to detect potential sig
 ---
 
 Note: The original trained model file was large and excluded due to GitHub file size limits.
-The deployed Streamlit app demonstrates the final working version with the model hosted externally.
+You need to install git lfs to run this on ur pc locally.
+The deployed Streamlit app demonstrates the final working version .
 
 ## 🚀 Live Demo
 
@@ -38,10 +39,12 @@ In a world where many hesitate to discuss mental health openly, their written te
 
 1.  Clone the repository:
     `git clone "https://github.com/mackk7/mental-health-analyzer.git"`
-2.  Create and activate a virtual environment.
-3.  Install dependencies:
+2.  Activate GIT LFS ( if not installed , install it on device ) .
+3.  Use GIT LFS INSTALL on terminal then GIT LFS PULL on terminal , it pulls the data to my_model file which was pointer to main my_model file (255mb).
+4  Create and activate a virtual environment.
+5.  Install dependencies:
     `pip install -r requirements.txt`
-4.  Run the Streamlit app:
+6.  Run the Streamlit app:
     `streamlit run app.py`
 
 ---
